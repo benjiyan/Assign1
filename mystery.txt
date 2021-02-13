@@ -1,0 +1,43 @@
+New NASA space telescope will explore the Big Bang
+
+A new space telescope will help scientists look back in time at the origin of our universe and the galaxies and planetary systems that have populated it ever since.
+
+The mission will further our understanding of how the universe rapidly expanded right after the Big Bang occurred. During a two-year run, NASA's SPHEREx space telescope will map the entire sky four times to create a giant database that will include galaxies, stars, nebulas and other objects.
+
+The data collected by the space observatory will result in a 3D map of the sky, making it the first NASA mission to create an all-sky spectroscopy map in near-infrared light. The name "SPHEREx" is short for Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer.
+
+The space observatory, which will be similar in size to a subcompact car, is expected to launch between June 2024 and April 2025.
+
+Tracking countless galaxies and stars
+
+The instruments on SPHEREx will observe the sky in visible light as well as near-infrared light. The human eye can't see near-infrared light, but it has helped astronomers to peer into otherwise invisible aspects of space and learn more about the universe.
+
+Its instruments will use spectroscopy to separate the near-infrared light the telescope can see into individual wavelengths. This data can shed light on the composition of an object or even its distance from Earth.
+
+"That's like going from black-and-white images to color; it's like going from Kansas to Oz," said Allen Farrington, the SPHEREx project manager at NASA's Jet Propulsion Laboratory, in a statement.
+
+Scientists expect to collect data on more than 300 million near and distant galaxies -- some of which are so far away that it has taken 10 billion years for their light to reach Earth.
+
+The telescope will also survey more than 100 million stars in our Milky Way galaxy while searching for water ice and other organic molecules in star nurseries and areas around stars where new planets could form. These stellar birthplaces, where stars come together from gas and dust, could contain evidence of the ingredients for life.
+
+At the end of the mission, astronomers expect to have a map of the entire sky that exceeds the resolution of previous similar maps, according to the agency.
+
+The SPHEREx space telescope will also be able to identify objects of interest for other NASA missions to observe with more detail.
+
+Clues from new star formations
+
+The mission team has some specific goals in mind for SPHEREx.
+
+The scientists will be searching for evidence of the inflation of the universe a split second after the Big Bang, when space as we know it rapidly expanded. This would have changed how matter was distributed. Evidence of that inflation may exist in the patterns and positioning of galaxies across the universe.
+
+Astronomers also want to know more about the history of how galaxies formed, including those first stars that formed after the Big Bang. Galaxies put off a faint glow. This glow varies across space depending on the placement of galaxies because some of them tend to stay in groups called clusters. Maps created by SPHEREx that break down light into different color bands could reveal more information about the first galaxies that formed stars.
+
+By taking a closer look at new stars forming in the Milky Way, astronomers will also be able to learn more about how young planetary systems are created. Planets form from the leftovers of star creation -- essentially disks of gas, dust and water ice swirling together. That leftover water ice could essentially bring water and other organic molecules to planets -- much like the way water was delivered to early Earth.
+
+This will tell scientists if our planetary system, which includes Earth and its ability to support life, is common or rare.
+
+Final design and assembly
+
+Officials at NASA announced this week that the mission has entered Phase C, which means that the early design plans have been approved and teams can begin the final design and assemble hardware and software. The California Institute of Technology and NASA's Jet Propulsion Laboratory will develop the instruments on SPHEREx while the spacecraft itself will be built by Ball Aerospace.
+
+The SPHEREx team will spend the next 29 months building these components before entering the next mission phase: assembly, testing and launch.
